@@ -1,0 +1,76 @@
+D:\iTi\Angular\project\HR System\bin\Debug\net7.0\appsettings.Development.json
+D:\iTi\Angular\project\HR System\bin\Debug\net7.0\appsettings.json
+D:\iTi\Angular\project\HR System\bin\Debug\net7.0\HR System.exe
+D:\iTi\Angular\project\HR System\bin\Debug\net7.0\HR System.deps.json
+D:\iTi\Angular\project\HR System\bin\Debug\net7.0\HR System.runtimeconfig.json
+D:\iTi\Angular\project\HR System\bin\Debug\net7.0\HR System.dll
+D:\iTi\Angular\project\HR System\bin\Debug\net7.0\HR System.pdb
+D:\iTi\Angular\project\HR System\bin\Debug\net7.0\Azure.Core.dll
+D:\iTi\Angular\project\HR System\bin\Debug\net7.0\Azure.Identity.dll
+D:\iTi\Angular\project\HR System\bin\Debug\net7.0\Humanizer.dll
+D:\iTi\Angular\project\HR System\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\iTi\Angular\project\HR System\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\iTi\Angular\project\HR System\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\iTi\Angular\project\HR System\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\iTi\Angular\project\HR System\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\iTi\Angular\project\HR System\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\iTi\Angular\project\HR System\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\iTi\Angular\project\HR System\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\iTi\Angular\project\HR System\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\iTi\Angular\project\HR System\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\iTi\Angular\project\HR System\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\iTi\Angular\project\HR System\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\iTi\Angular\project\HR System\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\iTi\Angular\project\HR System\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\iTi\Angular\project\HR System\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\iTi\Angular\project\HR System\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\iTi\Angular\project\HR System\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\iTi\Angular\project\HR System\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\iTi\Angular\project\HR System\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\iTi\Angular\project\HR System\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\iTi\Angular\project\HR System\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\iTi\Angular\project\HR System\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\iTi\Angular\project\HR System\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\iTi\Angular\project\HR System\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\iTi\Angular\project\HR System\bin\Debug\net7.0\System.CodeDom.dll
+D:\iTi\Angular\project\HR System\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\iTi\Angular\project\HR System\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\iTi\Angular\project\HR System\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\iTi\Angular\project\HR System\bin\Debug\net7.0\System.Memory.Data.dll
+D:\iTi\Angular\project\HR System\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\iTi\Angular\project\HR System\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\iTi\Angular\project\HR System\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\iTi\Angular\project\HR System\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\iTi\Angular\project\HR System\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\iTi\Angular\project\HR System\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\iTi\Angular\project\HR System\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\iTi\Angular\project\HR System\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\iTi\Angular\project\HR System\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\iTi\Angular\project\HR System\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\iTi\Angular\project\HR System\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\iTi\Angular\project\HR System\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\iTi\Angular\project\HR System\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\iTi\Angular\project\HR System\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\iTi\Angular\project\HR System\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\iTi\Angular\project\HR System\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\iTi\Angular\project\HR System\obj\Debug\net7.0\HR System.csproj.AssemblyReference.cache
+D:\iTi\Angular\project\HR System\obj\Debug\net7.0\HR System.GeneratedMSBuildEditorConfig.editorconfig
+D:\iTi\Angular\project\HR System\obj\Debug\net7.0\HR System.AssemblyInfoInputs.cache
+D:\iTi\Angular\project\HR System\obj\Debug\net7.0\HR System.AssemblyInfo.cs
+D:\iTi\Angular\project\HR System\obj\Debug\net7.0\HR System.csproj.CoreCompileInputs.cache
+D:\iTi\Angular\project\HR System\obj\Debug\net7.0\HR System.MvcApplicationPartsAssemblyInfo.cs
+D:\iTi\Angular\project\HR System\obj\Debug\net7.0\HR System.MvcApplicationPartsAssemblyInfo.cache
+D:\iTi\Angular\project\HR System\obj\Debug\net7.0\staticwebassets\msbuild.HR System.Microsoft.AspNetCore.StaticWebAssets.props
+D:\iTi\Angular\project\HR System\obj\Debug\net7.0\staticwebassets\msbuild.build.HR System.props
+D:\iTi\Angular\project\HR System\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.HR System.props
+D:\iTi\Angular\project\HR System\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.HR System.props
+D:\iTi\Angular\project\HR System\obj\Debug\net7.0\staticwebassets.pack.json
+D:\iTi\Angular\project\HR System\obj\Debug\net7.0\staticwebassets.build.json
+D:\iTi\Angular\project\HR System\obj\Debug\net7.0\staticwebassets.development.json
+D:\iTi\Angular\project\HR System\obj\Debug\net7.0\scopedcss\bundle\HR System.styles.css
+D:\iTi\Angular\project\HR System\obj\Debug\net7.0\HR System.csproj.CopyComplete
+D:\iTi\Angular\project\HR System\obj\Debug\net7.0\HR System.dll
+D:\iTi\Angular\project\HR System\obj\Debug\net7.0\refint\HR System.dll
+D:\iTi\Angular\project\HR System\obj\Debug\net7.0\HR System.pdb
+D:\iTi\Angular\project\HR System\obj\Debug\net7.0\HR System.genruntimeconfig.cache
+D:\iTi\Angular\project\HR System\obj\Debug\net7.0\ref\HR System.dll
