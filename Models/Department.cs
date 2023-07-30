@@ -1,11 +1,23 @@
-﻿namespace HR_System.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace HR_System.Models
 {
     public class Department
     {
-        public int Id { get; set; }
+        private string GenerateUniqueId()
+        {
+            Guid guid = Guid.NewGuid();
+            return guid.ToString();
+        }
+        public Department()
+        {
+            Id = GenerateUniqueId();
+        }
+        [Key]
+        public string Id { get; set; }
         public string Name { get; set; }
         public bool IsDeleted { get; set; }
 
-        public virtual ICollection<Employee> Employees { get; set; } = new List<Employee>();
+        public virtual ICollection<Employee> Employees { get; set; } 
     }
 }

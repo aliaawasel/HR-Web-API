@@ -5,18 +5,29 @@ namespace HR_System.Models
 {
     public class EmployeeAttendence
     {
+        private string GenerateUniqueId()
+        {
+            Guid guid = Guid.NewGuid();
+            return guid.ToString();
+        }
+        public EmployeeAttendence()
+        {
+            EmpID = GenerateUniqueId();
+            AttendanceID = GenerateUniqueId() ;
+        }
         [Key]
-        public int EmpID { get; set; }
+        [ForeignKey(nameof(Employee))]
+
+        public string EmpID { get; set; }
         [Key]
-        public int AttendanceID { get; set; }
+        [ForeignKey(nameof(Attendance))]
+        public string AttendanceID { get; set; }
 
         public DateTime Date { get; set; }
 
 
-        [ForeignKey("EmpID")]
         public virtual Employee Employee { get; set; }
 
-        [ForeignKey("AttendanceID")]
         public virtual Attendance Attendance { get; set; }
     }
 }

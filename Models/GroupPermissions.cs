@@ -5,10 +5,20 @@ namespace HR_System.Models
 {
     public class GroupPermissions
     {
+        private string GenerateUniqueId()
+        {
+            Guid guid = Guid.NewGuid();
+            return guid.ToString();
+        }
+        public GroupPermissions()
+        {
+            GroupID = GenerateUniqueId();
+            PermissionID = GenerateUniqueId();
+        }
         [Key]
-        public int GroupID { get; set; }
+        public string GroupID { get; set; }
         [Key]
-        public int PermissionID { get; set; }
+        public string PermissionID { get; set; }
         public bool Add { get; set; }
         public bool Update { get; set; }
         public bool Delete { get; set; }

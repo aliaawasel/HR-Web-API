@@ -74,3 +74,86 @@ D:\iTi\Angular\project\HR System\obj\Debug\net7.0\refint\HR System.dll
 D:\iTi\Angular\project\HR System\obj\Debug\net7.0\HR System.pdb
 D:\iTi\Angular\project\HR System\obj\Debug\net7.0\HR System.genruntimeconfig.cache
 D:\iTi\Angular\project\HR System\obj\Debug\net7.0\ref\HR System.dll
+E:\HR-API\obj\Debug\net7.0\HR System.csproj.AssemblyReference.cache
+E:\HR-API\obj\Debug\net7.0\HR System.GeneratedMSBuildEditorConfig.editorconfig
+E:\HR-API\obj\Debug\net7.0\HR System.AssemblyInfoInputs.cache
+E:\HR-API\obj\Debug\net7.0\HR System.AssemblyInfo.cs
+E:\HR-API\obj\Debug\net7.0\HR System.csproj.CoreCompileInputs.cache
+E:\HR-API\obj\Debug\net7.0\HR System.MvcApplicationPartsAssemblyInfo.cs
+E:\HR-API\obj\Debug\net7.0\HR System.MvcApplicationPartsAssemblyInfo.cache
+E:\HR-API\obj\Debug\net7.0\HR System.dll
+E:\HR-API\obj\Debug\net7.0\refint\HR System.dll
+E:\HR-API\obj\Debug\net7.0\HR System.pdb
+E:\HR-API\bin\Debug\net7.0\appsettings.Development.json
+E:\HR-API\bin\Debug\net7.0\appsettings.json
+E:\HR-API\bin\Debug\net7.0\HR System.exe
+E:\HR-API\bin\Debug\net7.0\HR System.deps.json
+E:\HR-API\bin\Debug\net7.0\HR System.runtimeconfig.json
+E:\HR-API\bin\Debug\net7.0\HR System.dll
+E:\HR-API\bin\Debug\net7.0\HR System.pdb
+E:\HR-API\bin\Debug\net7.0\Azure.Core.dll
+E:\HR-API\bin\Debug\net7.0\Azure.Identity.dll
+E:\HR-API\bin\Debug\net7.0\Humanizer.dll
+E:\HR-API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\HR-API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\HR-API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\HR-API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\HR-API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\HR-API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\HR-API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\HR-API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\HR-API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\HR-API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\HR-API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\HR-API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\HR-API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\HR-API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\HR-API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\HR-API\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\HR-API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\HR-API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\HR-API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\HR-API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\HR-API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\HR-API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\HR-API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\HR-API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\HR-API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\HR-API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\HR-API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\HR-API\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\HR-API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\HR-API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\HR-API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\HR-API\bin\Debug\net7.0\System.CodeDom.dll
+E:\HR-API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\HR-API\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\HR-API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\HR-API\bin\Debug\net7.0\System.Memory.Data.dll
+E:\HR-API\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\HR-API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\HR-API\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\HR-API\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\HR-API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\HR-API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\HR-API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\HR-API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\HR-API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\HR-API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\HR-API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\HR-API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\HR-API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\HR-API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\HR-API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\HR-API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\HR-API\obj\Debug\net7.0\staticwebassets\msbuild.HR System.Microsoft.AspNetCore.StaticWebAssets.props
+E:\HR-API\obj\Debug\net7.0\staticwebassets\msbuild.build.HR System.props
+E:\HR-API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.HR System.props
+E:\HR-API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.HR System.props
+E:\HR-API\obj\Debug\net7.0\staticwebassets.pack.json
+E:\HR-API\obj\Debug\net7.0\staticwebassets.build.json
+E:\HR-API\obj\Debug\net7.0\staticwebassets.development.json
+E:\HR-API\obj\Debug\net7.0\scopedcss\bundle\HR System.styles.css
+E:\HR-API\obj\Debug\net7.0\HR System.csproj.CopyComplete
+E:\HR-API\obj\Debug\net7.0\HR System.genruntimeconfig.cache
+E:\HR-API\obj\Debug\net7.0\ref\HR System.dll

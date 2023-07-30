@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\iTi\\Angular\\project\\HR System\\HR System.csproj": {}
+    "E:\\HR-API\\HR System.csproj": {}
   },
   "projects": {
-    "D:\\iTi\\Angular\\project\\HR System\\HR System.csproj": {
+    "E:\\HR-API\\HR System.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\iTi\\Angular\\project\\HR System\\HR System.csproj",
+        "projectUniqueName": "E:\\HR-API\\HR System.csproj",
         "projectName": "HR System",
-        "projectPath": "D:\\iTi\\Angular\\project\\HR System\\HR System.csproj",
-        "packagesPath": "C:\\Users\\aliaa hamdy wasel\\.nuget\\packages\\",
-        "outputPath": "D:\\iTi\\Angular\\project\\HR System\\obj\\",
+        "projectPath": "E:\\HR-API\\HR System.csproj",
+        "packagesPath": "C:\\Users\\elshe\\.nuget\\packages\\",
+        "outputPath": "E:\\HR-API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\aliaa hamdy wasel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\elshe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,6 +57,22 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.32.1, )"
+            },
+            "microsoft.aspnetcore.authentication.jwtbearer": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "microsoft.aspnetcore.identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "microsoft.identitymodel.tokens": {
+              "target": "Package",
+              "version": "[6.32.1, )"
             }
           },
           "imports": [

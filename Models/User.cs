@@ -4,18 +4,12 @@ using System.Text.RegularExpressions;
 
 namespace HR_System.Models
 {
-    public class User
+    public class User:ApplicationUser
     {
-        [Key] 
-        public string Username { get; set; }
         public string FullName { get; set; }
-        public string Password { get; set; }
-        public string Email { get; set; }
-        public int GroupID { get; set; }
-        public bool IsDeleted { get; set; }
 
-        [ForeignKey("GroupID")]
-
+        [ForeignKey(nameof(Group))]
+        public string? GroupID { get; set; }
         public virtual Group Group { get; set; }
 
     }

@@ -1,8 +1,20 @@
-﻿namespace HR_System.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace HR_System.Models
 {
     public class OfficialVocations
     {
-        public int ID { get; set; }
+        private string GenerateUniqueId()
+        {
+            Guid guid = Guid.NewGuid();
+            return guid.ToString();
+        }
+        public OfficialVocations()
+        {
+            Id = GenerateUniqueId();
+        }
+        [Key]
+        public string Id { get; set; }
         public string Name { get; set; }
         public DateTime Date { get; set; }
         public bool IsDeleted { get; set; }

@@ -1,8 +1,20 @@
-﻿namespace HR_System.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace HR_System.Models
 {
     public class Permissions
     {
-        public int Id { get; set; }
+        private string GenerateUniqueId()
+        {
+            Guid guid = Guid.NewGuid();
+            return guid.ToString();
+        }
+        public Permissions()
+        {
+            Id = GenerateUniqueId();
+        }
+        [Key]
+        public string Id { get; set; }
         public bool UserPage { get; set; }
         public bool EmployeePage { get; set; }
         public bool DepartmentPage { get; set; }
