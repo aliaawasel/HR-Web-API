@@ -1,6 +1,7 @@
 
 using HR_System.Models;
 using HR_System.Repository.DepartmentRepo;
+using HR_System.Repository.EmployeeRepo;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
@@ -43,6 +44,8 @@ namespace HR_System
                 })
                 .AddEntityFrameworkStores<HREntity>();
                 builder.Services.AddScoped<IDeptRepo, DeptRepo>();
+            builder.Services.AddScoped<IEmpRepo, EmpRepo>();
+
 
             #endregion
 
